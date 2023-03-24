@@ -12,3 +12,5 @@ What this Github repository is presenting here is a Template of what a [BuzzFeed
 
 ## Examples
 ![buzz-feed-example](https://user-images.githubusercontent.com/83415030/227612149-4f089692-21db-4cfb-b081-b36ccf56869e.png)
+![buzz-feed-example1](https://user-images.githubusercontent.com/83415030/227612472-491598b2-6ca1-47cf-b591-94e1ff471f5f.png)
+
